@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning at University of Vavuniya and following BICT(Hons) degree.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ravindurkv@gmail.com
+- View CV index.html
 
 <!---
 ravindukelum/ravindukelum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
