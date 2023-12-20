@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindukelum" alt="ravindu-kelum" /></a> </p>
 
-- 🔭 I’m currently working on **CodeLantic Software Development **
+- 🔭 I’m currently working on **CodeLantic Software Development**
 
 - 👨‍💻 All of my projects are available at [https://sciwithtech.com/](https://sciwithtech.com/)
 
