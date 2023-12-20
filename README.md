@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Engineer living in Sri Lanka</h3>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=ravindukelum&label=PROFILE+VIEWS)" alt="ravindu-kelum" /> </p>
+![](https://komarev.com/ghpvc/?username=ravindukelum&color=green)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindukelum" alt="ravindu-kelum" /></a> </p>
 
