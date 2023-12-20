@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate Software Engineer living in Sri Lanka</h3>
 
-![](https://komarev.com/ghpvc/?username=ravindukelum&color=green)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindukelum" alt="ravindu-kelum" /></a> </p>
 
 - 🔭 I’m currently working on **CodeLantic Software Development **
@@ -33,6 +31,7 @@
 <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-bouali&" alt="ali-bouali" /></p>
 
 
+![](https://komarev.com/ghpvc/?username=ravindukelum&color=green)
 <!---
 ravindukelum/ravindukelum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
