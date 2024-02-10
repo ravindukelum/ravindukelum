@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **CodeLantic Software Development**
 
-- 👨‍💻 All of my projects are available at [portfolio]([https://sciwithtech.com/](https://ravindukelum.github.io/my-portfolio-app/))
+- 👨‍💻 All of my projects are available at [portfolio](https://ravindukelum.github.io/my-portfolio-app/)
 
 - 📝 I regularly write articles on [https://sciwithtech.com/](https://sciwithtech.com/)
 
